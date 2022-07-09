@@ -1,0 +1,14 @@
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN2\bin\Release\PACMAN2.exe.config
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN2\bin\Release\PACMAN2.exe
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN2\obj\Release\PACMAN2.csproj.AssemblyReference.cache
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN2\obj\Release\MainForm.resources
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN2\obj\Release\PACMAN2.csproj.GenerateResource.cache
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN2\obj\Release\PACMAN2.csproj.CoreCompileInputs.cache
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN2\obj\Release\PACMAN2.exe
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN\PACMAN\bin\Release\PACMAN2.exe.config
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN\PACMAN\bin\Release\PACMAN2.exe
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN\PACMAN\obj\Release\PACMAN2.csproj.AssemblyReference.cache
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN\PACMAN\obj\Release\MainForm.resources
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN\PACMAN\obj\Release\PACMAN2.csproj.GenerateResource.cache
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN\PACMAN\obj\Release\PACMAN2.csproj.CoreCompileInputs.cache
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN\PACMAN\obj\Release\PACMAN2.exe

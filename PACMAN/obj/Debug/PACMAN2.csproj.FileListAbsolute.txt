@@ -1,0 +1,26 @@
+D:\Škola\SharpDevelop\PACMAN2\obj\Debug\PACMAN2.csprojResolveAssemblyReference.cache
+D:\Škola\SharpDevelop\PACMAN2\obj\Debug\MainForm.resources
+D:\Škola\SharpDevelop\PACMAN2\obj\Debug\PACMAN2.csproj.GenerateResource.Cache
+D:\Škola\SharpDevelop\PACMAN2\bin\Debug\PACMAN2.exe.config
+D:\Škola\SharpDevelop\PACMAN2\bin\Debug\PACMAN2.exe
+D:\Škola\SharpDevelop\PACMAN2\bin\Debug\PACMAN2.pdb
+D:\Škola\SharpDevelop\PACMAN2\obj\Debug\PACMAN2.exe
+D:\Škola\SharpDevelop\PACMAN2\obj\Debug\PACMAN2.pdb
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN2\bin\Debug\PACMAN2.exe.config
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN2\bin\Debug\PACMAN2.exe
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN2\bin\Debug\PACMAN2.pdb
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN2\obj\Debug\PACMAN2.csproj.AssemblyReference.cache
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN2\obj\Debug\MainForm.resources
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN2\obj\Debug\PACMAN2.csproj.GenerateResource.cache
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN2\obj\Debug\PACMAN2.csproj.CoreCompileInputs.cache
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN2\obj\Debug\PACMAN2.exe
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN2\obj\Debug\PACMAN2.pdb
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN\PACMAN\bin\Debug\PACMAN2.exe.config
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN\PACMAN\bin\Debug\PACMAN2.exe
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN\PACMAN\bin\Debug\PACMAN2.pdb
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN\PACMAN\obj\Debug\PACMAN2.csproj.AssemblyReference.cache
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN\PACMAN\obj\Debug\MainForm.resources
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN\PACMAN\obj\Debug\PACMAN2.csproj.GenerateResource.cache
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN\PACMAN\obj\Debug\PACMAN2.csproj.CoreCompileInputs.cache
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN\PACMAN\obj\Debug\PACMAN2.exe
+D:\Skola\Bc stupeň\SharpDevelop\PACMAN\PACMAN\obj\Debug\PACMAN2.pdb
